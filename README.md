@@ -17,7 +17,7 @@ clases de la interfaz de usuario en el archivo `app/console.py`.
 Considera los siguientes aspectos para la implementación:
 
 ## 1. Clase `Note`
-
+hola
 - La clase debe tener las siguientes constantes:
 
   - `HIGH` de tipo `str` con valor `'HIGH'`.
